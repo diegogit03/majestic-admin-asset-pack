@@ -1,0 +1,14 @@
+{
+  "name": "majestic-admin-assets",
+  "version": "1.0.0",
+  "keywords": [
+    "majestic",
+    "admin",
+    "template",
+    "assets"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
